@@ -1,0 +1,1 @@
+I couldn't seem to get the logic for the matching to work. While it does display on the apps friends, a result won't be returned after all the scores are tallied.
