@@ -1,0 +1,13 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Helps you find frands",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
